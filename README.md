@@ -41,4 +41,4 @@ This project analyzes restaurant data to understand customer preferences, food t
 
 ## 📊 Dashboard Preview
 
-![Dashboard](images/Food Trend Analysis Dashboard.png)
+![Dashboard](images/Food_Trend_Analysis_Dashboard.png)
