@@ -1,0 +1,301 @@
+order_id,order_date,city,cuisine,food_item,price_per_item,quantity,rating,customer_age_group,order_type
+1,2024-03-11,Mumbai,Italian,Pizza,225,2,3.3,18-25,Takeaway
+2,2024-01-08,Hyderabad,Fast Food,Burger,147,2,3.5,18-25,Takeaway
+3,2024-06-15,Hyderabad,Indian,Dal Tadka,459,4,3.4,36-45,Delivery
+4,2024-04-18,Bangalore,Indian,Dal Tadka,274,3,3.3,18-25,Delivery
+5,2024-04-01,Pune,Fast Food,Burger,276,3,4.6,18-25,Dine-in
+6,2024-03-16,Mumbai,Italian,Garlic Bread,421,3,4.2,18-25,Takeaway
+7,2024-01-21,Pune,Indian,Paneer Butter Masala,219,1,3.8,36-45,Delivery
+8,2024-02-23,Mumbai,Chinese,Fried Rice,443,3,4.4,26-35,Takeaway
+9,2024-04-28,Hyderabad,Indian,Biryani,294,3,5.0,26-35,Takeaway
+10,2024-02-28,Mumbai,Chinese,Noodles,116,3,3.8,26-35,Takeaway
+11,2024-06-16,Pune,Chinese,Noodles,355,4,4.8,26-35,Dine-in
+12,2024-05-23,Pune,Indian,Biryani,375,3,4.5,46+,Dine-in
+13,2024-05-10,Mumbai,Indian,Biryani,352,1,4.5,26-35,Takeaway
+14,2024-04-18,Hyderabad,Indian,Dal Tadka,405,1,3.8,46+,Takeaway
+15,2024-01-03,Hyderabad,Chinese,Manchurian,448,1,4.4,36-45,Takeaway
+16,2024-03-16,Bangalore,Chinese,Noodles,322,2,3.9,26-35,Takeaway
+17,2024-03-17,Delhi,Italian,Garlic Bread,427,2,3.3,18-25,Takeaway
+18,2024-01-05,Bangalore,Chinese,Fried Rice,157,3,4.8,26-35,Delivery
+19,2024-01-21,Hyderabad,Indian,Dal Tadka,143,4,4.6,26-35,Delivery
+20,2024-02-12,Hyderabad,Fast Food,Sandwich,235,4,4.9,26-35,Takeaway
+21,2024-06-20,Hyderabad,Chinese,Fried Rice,432,3,3.9,46+,Delivery
+22,2024-01-17,Delhi,Indian,Biryani,273,1,4.2,26-35,Delivery
+23,2024-06-10,Mumbai,Italian,Garlic Bread,130,2,3.1,36-45,Delivery
+24,2024-03-12,Delhi,Dessert,Ice Cream,442,4,3.4,46+,Delivery
+25,2024-02-18,Bangalore,Fast Food,Fries,148,1,4.3,46+,Dine-in
+26,2024-01-14,Bangalore,Fast Food,Sandwich,444,1,3.1,18-25,Delivery
+27,2024-05-17,Bangalore,Indian,Biryani,329,2,3.8,46+,Delivery
+28,2024-05-20,Hyderabad,Italian,Pasta,150,1,4.3,18-25,Delivery
+29,2024-04-14,Pune,Indian,Biryani,348,4,3.4,18-25,Delivery
+30,2024-04-09,Hyderabad,Fast Food,Burger,235,4,3.6,46+,Delivery
+31,2024-02-25,Mumbai,Indian,Paneer Butter Masala,129,1,4.5,18-25,Takeaway
+32,2024-05-15,Mumbai,Fast Food,Sandwich,180,1,4.9,26-35,Delivery
+33,2024-06-21,Hyderabad,Dessert,Ice Cream,220,4,3.2,26-35,Takeaway
+34,2024-06-07,Hyderabad,Dessert,Ice Cream,141,4,4.3,36-45,Dine-in
+35,2024-03-21,Bangalore,Indian,Dal Tadka,222,3,3.8,46+,Dine-in
+36,2024-04-27,Delhi,Italian,Pizza,418,1,3.1,36-45,Delivery
+37,2024-03-03,Hyderabad,Chinese,Noodles,289,3,3.3,36-45,Takeaway
+38,2024-06-19,Mumbai,Dessert,Ice Cream,383,3,4.9,26-35,Dine-in
+39,2024-05-21,Delhi,Italian,Pizza,179,3,3.6,36-45,Delivery
+40,2024-05-05,Pune,Chinese,Manchurian,228,1,3.2,36-45,Delivery
+41,2024-02-03,Pune,Italian,Pasta,426,3,3.3,46+,Takeaway
+42,2024-01-20,Bangalore,Italian,Pizza,453,2,4.1,26-35,Dine-in
+43,2024-03-19,Delhi,Indian,Biryani,286,1,4.8,26-35,Takeaway
+44,2024-05-23,Delhi,Italian,Pasta,308,2,4.9,26-35,Delivery
+45,2024-02-15,Pune,Fast Food,Burger,477,3,4.6,26-35,Dine-in
+46,2024-01-28,Delhi,Indian,Dal Tadka,295,1,4.7,26-35,Dine-in
+47,2024-02-28,Pune,Chinese,Fried Rice,214,1,4.3,36-45,Dine-in
+48,2024-03-30,Hyderabad,Italian,Pasta,428,4,4.4,36-45,Delivery
+49,2024-02-15,Hyderabad,Italian,Pasta,397,3,3.1,46+,Dine-in
+50,2024-06-04,Hyderabad,Chinese,Fried Rice,361,1,3.8,26-35,Dine-in
+51,2024-04-21,Mumbai,Italian,Garlic Bread,100,2,3.7,36-45,Takeaway
+52,2024-02-01,Pune,Chinese,Manchurian,468,3,4.0,36-45,Dine-in
+53,2024-02-02,Pune,Chinese,Manchurian,198,4,4.3,26-35,Takeaway
+54,2024-04-13,Delhi,Dessert,Brownie,380,1,3.6,46+,Takeaway
+55,2024-03-23,Delhi,Dessert,Cake,338,4,3.9,46+,Takeaway
+56,2024-01-22,Delhi,Indian,Dal Tadka,245,3,3.2,36-45,Delivery
+57,2024-01-07,Hyderabad,Indian,Biryani,123,2,5.0,18-25,Dine-in
+58,2024-05-27,Delhi,Fast Food,Sandwich,199,4,4.0,26-35,Takeaway
+59,2024-04-18,Hyderabad,Italian,Pizza,212,2,4.6,46+,Delivery
+60,2024-02-01,Hyderabad,Dessert,Ice Cream,333,2,4.6,36-45,Dine-in
+61,2024-05-09,Pune,Dessert,Cake,318,4,4.8,46+,Dine-in
+62,2024-03-11,Bangalore,Indian,Dal Tadka,492,4,4.3,46+,Delivery
+63,2024-03-10,Mumbai,Chinese,Noodles,271,3,4.8,26-35,Delivery
+64,2024-06-26,Pune,Indian,Paneer Butter Masala,178,2,3.1,36-45,Takeaway
+65,2024-01-16,Hyderabad,Fast Food,Fries,205,4,3.8,18-25,Takeaway
+66,2024-01-02,Pune,Fast Food,Fries,280,3,4.5,26-35,Dine-in
+67,2024-04-21,Pune,Indian,Paneer Butter Masala,348,1,3.8,26-35,Dine-in
+68,2024-05-16,Mumbai,Indian,Dal Tadka,113,4,4.2,18-25,Takeaway
+69,2024-04-28,Bangalore,Fast Food,Burger,193,1,3.5,26-35,Dine-in
+70,2024-04-07,Mumbai,Chinese,Fried Rice,242,4,3.5,46+,Delivery
+71,2024-03-30,Mumbai,Dessert,Ice Cream,214,1,4.6,18-25,Delivery
+72,2024-06-08,Mumbai,Indian,Biryani,178,2,3.3,26-35,Dine-in
+73,2024-02-12,Delhi,Chinese,Fried Rice,410,1,4.6,36-45,Delivery
+74,2024-03-20,Delhi,Dessert,Ice Cream,394,4,3.8,18-25,Takeaway
+75,2024-06-27,Hyderabad,Indian,Biryani,495,3,4.7,18-25,Takeaway
+76,2024-05-16,Bangalore,Italian,Pasta,319,3,3.1,18-25,Dine-in
+77,2024-04-20,Pune,Fast Food,Burger,285,4,4.4,26-35,Takeaway
+78,2024-03-10,Hyderabad,Dessert,Cake,415,4,3.9,36-45,Dine-in
+79,2024-03-12,Hyderabad,Indian,Biryani,330,2,4.5,46+,Dine-in
+80,2024-03-24,Bangalore,Italian,Pasta,193,4,3.4,36-45,Dine-in
+81,2024-03-11,Delhi,Dessert,Cake,384,1,4.0,18-25,Delivery
+82,2024-05-22,Pune,Fast Food,Fries,488,2,4.4,46+,Delivery
+83,2024-02-26,Hyderabad,Italian,Pasta,307,2,3.6,36-45,Dine-in
+84,2024-03-29,Pune,Dessert,Cake,317,3,3.7,36-45,Dine-in
+85,2024-01-31,Hyderabad,Chinese,Noodles,469,2,3.6,26-35,Delivery
+86,2024-05-03,Delhi,Indian,Dal Tadka,241,3,5.0,36-45,Delivery
+87,2024-03-18,Mumbai,Chinese,Noodles,107,2,3.5,36-45,Takeaway
+88,2024-05-05,Pune,Indian,Dal Tadka,152,1,4.1,46+,Dine-in
+89,2024-01-14,Mumbai,Chinese,Noodles,229,4,3.2,46+,Dine-in
+90,2024-06-10,Hyderabad,Italian,Garlic Bread,451,1,3.3,36-45,Delivery
+91,2024-05-22,Hyderabad,Indian,Biryani,491,4,4.2,26-35,Takeaway
+92,2024-04-23,Hyderabad,Fast Food,Fries,252,4,3.6,18-25,Takeaway
+93,2024-06-09,Delhi,Italian,Pizza,208,3,4.3,26-35,Delivery
+94,2024-02-10,Hyderabad,Dessert,Ice Cream,101,4,3.9,46+,Dine-in
+95,2024-03-14,Pune,Italian,Pizza,461,3,4.4,18-25,Takeaway
+96,2024-06-09,Hyderabad,Indian,Paneer Butter Masala,401,2,3.9,26-35,Takeaway
+97,2024-02-06,Bangalore,Indian,Paneer Butter Masala,136,1,3.3,36-45,Dine-in
+98,2024-06-25,Hyderabad,Italian,Pasta,255,4,4.9,46+,Dine-in
+99,2024-01-11,Mumbai,Italian,Garlic Bread,321,3,4.2,18-25,Delivery
+100,2024-01-06,Delhi,Dessert,Cake,491,3,4.2,46+,Takeaway
+101,2024-02-16,Pune,Fast Food,Fries,399,4,4.3,18-25,Dine-in
+102,2024-03-26,Bangalore,Chinese,Fried Rice,264,1,4.7,46+,Takeaway
+103,2024-06-18,Bangalore,Fast Food,Fries,305,1,3.9,36-45,Dine-in
+104,2024-05-11,Delhi,Italian,Pasta,100,4,3.8,36-45,Takeaway
+105,2024-04-23,Hyderabad,Fast Food,Sandwich,489,1,3.4,26-35,Dine-in
+106,2024-05-04,Hyderabad,Fast Food,Sandwich,162,1,4.9,26-35,Takeaway
+107,2024-05-21,Mumbai,Indian,Paneer Butter Masala,107,4,3.2,46+,Delivery
+108,2024-03-15,Pune,Indian,Paneer Butter Masala,360,3,3.8,46+,Delivery
+109,2024-02-07,Hyderabad,Fast Food,Sandwich,296,2,4.8,26-35,Delivery
+110,2024-03-28,Bangalore,Chinese,Fried Rice,359,3,4.6,36-45,Takeaway
+111,2024-05-05,Bangalore,Dessert,Cake,176,4,4.1,36-45,Takeaway
+112,2024-04-26,Delhi,Dessert,Brownie,264,2,5.0,46+,Delivery
+113,2024-03-22,Pune,Fast Food,Burger,481,4,4.4,46+,Takeaway
+114,2024-01-10,Pune,Indian,Paneer Butter Masala,164,3,4.7,18-25,Takeaway
+115,2024-02-06,Bangalore,Fast Food,Burger,309,2,3.1,36-45,Takeaway
+116,2024-01-21,Pune,Fast Food,Sandwich,268,4,4.9,18-25,Takeaway
+117,2024-06-10,Mumbai,Italian,Pizza,450,3,5.0,46+,Delivery
+118,2024-02-12,Mumbai,Italian,Pasta,455,3,4.8,36-45,Delivery
+119,2024-04-05,Pune,Chinese,Fried Rice,320,2,3.5,26-35,Delivery
+120,2024-06-05,Hyderabad,Indian,Biryani,295,2,4.0,26-35,Delivery
+121,2024-03-06,Pune,Fast Food,Sandwich,335,3,4.3,36-45,Takeaway
+122,2024-01-19,Bangalore,Dessert,Ice Cream,326,3,5.0,46+,Takeaway
+123,2024-03-18,Mumbai,Chinese,Fried Rice,201,4,4.7,26-35,Dine-in
+124,2024-05-27,Pune,Dessert,Brownie,251,3,3.0,36-45,Delivery
+125,2024-01-13,Bangalore,Dessert,Cake,410,4,4.7,26-35,Takeaway
+126,2024-06-11,Delhi,Chinese,Noodles,197,3,4.4,18-25,Takeaway
+127,2024-04-22,Mumbai,Italian,Pasta,117,3,4.5,36-45,Dine-in
+128,2024-02-21,Bangalore,Fast Food,Burger,167,3,4.1,26-35,Dine-in
+129,2024-03-27,Delhi,Fast Food,Fries,158,4,4.9,26-35,Takeaway
+130,2024-04-03,Hyderabad,Fast Food,Sandwich,146,4,3.0,18-25,Dine-in
+131,2024-06-21,Bangalore,Chinese,Manchurian,234,4,4.6,18-25,Takeaway
+132,2024-01-07,Delhi,Indian,Paneer Butter Masala,417,3,4.8,18-25,Takeaway
+133,2024-03-18,Mumbai,Fast Food,Sandwich,432,4,3.2,18-25,Dine-in
+134,2024-01-25,Bangalore,Fast Food,Burger,220,2,3.8,46+,Takeaway
+135,2024-06-16,Bangalore,Indian,Paneer Butter Masala,150,4,4.2,18-25,Takeaway
+136,2024-04-23,Mumbai,Chinese,Noodles,327,2,4.7,36-45,Takeaway
+137,2024-04-11,Pune,Chinese,Noodles,241,2,4.9,18-25,Takeaway
+138,2024-06-12,Bangalore,Indian,Dal Tadka,405,1,3.1,26-35,Delivery
+139,2024-01-18,Delhi,Dessert,Ice Cream,491,2,4.2,36-45,Delivery
+140,2024-03-11,Delhi,Dessert,Ice Cream,174,2,4.1,18-25,Takeaway
+141,2024-01-04,Mumbai,Italian,Pizza,283,2,4.2,26-35,Dine-in
+142,2024-04-17,Pune,Italian,Pizza,369,1,4.5,46+,Dine-in
+143,2024-01-28,Mumbai,Dessert,Cake,331,2,4.9,36-45,Dine-in
+144,2024-05-02,Pune,Italian,Pizza,305,4,4.4,46+,Delivery
+145,2024-06-04,Hyderabad,Italian,Pasta,175,1,3.3,36-45,Dine-in
+146,2024-03-16,Mumbai,Dessert,Cake,332,4,3.2,26-35,Dine-in
+147,2024-04-15,Mumbai,Fast Food,Burger,273,4,3.8,36-45,Dine-in
+148,2024-03-06,Pune,Chinese,Manchurian,291,2,4.4,18-25,Delivery
+149,2024-04-20,Hyderabad,Italian,Pizza,149,3,4.6,18-25,Takeaway
+150,2024-03-25,Pune,Dessert,Cake,443,1,3.8,18-25,Dine-in
+151,2024-03-31,Pune,Dessert,Brownie,153,2,3.3,26-35,Delivery
+152,2024-04-04,Pune,Chinese,Manchurian,158,3,4.1,18-25,Takeaway
+153,2024-02-16,Bangalore,Chinese,Noodles,239,3,4.8,18-25,Delivery
+154,2024-06-17,Mumbai,Indian,Dal Tadka,305,1,3.3,18-25,Takeaway
+155,2024-04-06,Bangalore,Dessert,Ice Cream,314,4,3.7,36-45,Takeaway
+156,2024-06-01,Hyderabad,Chinese,Manchurian,143,1,3.3,18-25,Takeaway
+157,2024-04-23,Pune,Italian,Pasta,438,4,4.0,46+,Dine-in
+158,2024-01-30,Hyderabad,Indian,Dal Tadka,276,4,3.2,46+,Takeaway
+159,2024-02-26,Bangalore,Chinese,Noodles,302,1,3.0,26-35,Delivery
+160,2024-03-24,Pune,Chinese,Fried Rice,161,1,4.0,26-35,Delivery
+161,2024-06-29,Mumbai,Fast Food,Sandwich,217,3,3.1,46+,Delivery
+162,2024-03-21,Pune,Fast Food,Burger,394,4,4.1,36-45,Delivery
+163,2024-03-24,Bangalore,Fast Food,Burger,187,4,4.7,18-25,Dine-in
+164,2024-04-21,Pune,Italian,Pizza,401,4,4.0,36-45,Takeaway
+165,2024-03-26,Mumbai,Chinese,Noodles,498,2,3.2,26-35,Dine-in
+166,2024-06-14,Bangalore,Chinese,Manchurian,175,2,3.2,26-35,Delivery
+167,2024-06-16,Pune,Dessert,Ice Cream,138,2,4.9,46+,Takeaway
+168,2024-06-23,Bangalore,Dessert,Brownie,389,3,4.7,26-35,Dine-in
+169,2024-04-23,Hyderabad,Italian,Pasta,423,3,4.6,18-25,Dine-in
+170,2024-03-20,Bangalore,Dessert,Ice Cream,336,4,3.1,36-45,Delivery
+171,2024-06-01,Hyderabad,Italian,Garlic Bread,359,4,3.9,18-25,Dine-in
+172,2024-02-18,Mumbai,Dessert,Cake,264,4,4.0,46+,Delivery
+173,2024-01-22,Pune,Chinese,Manchurian,358,2,3.1,46+,Takeaway
+174,2024-02-10,Pune,Dessert,Cake,286,3,4.8,46+,Dine-in
+175,2024-06-10,Mumbai,Dessert,Ice Cream,431,3,3.1,46+,Dine-in
+176,2024-06-17,Hyderabad,Chinese,Manchurian,408,2,3.7,26-35,Dine-in
+177,2024-06-27,Mumbai,Chinese,Manchurian,439,4,3.3,36-45,Takeaway
+178,2024-03-25,Pune,Fast Food,Sandwich,165,1,4.3,36-45,Delivery
+179,2024-02-16,Pune,Chinese,Fried Rice,209,3,4.9,26-35,Delivery
+180,2024-01-20,Hyderabad,Indian,Biryani,251,1,4.0,18-25,Takeaway
+181,2024-02-03,Delhi,Chinese,Manchurian,405,4,3.3,26-35,Takeaway
+182,2024-04-15,Hyderabad,Fast Food,Burger,286,2,4.9,36-45,Takeaway
+183,2024-05-16,Pune,Fast Food,Burger,222,3,4.9,26-35,Dine-in
+184,2024-04-28,Hyderabad,Dessert,Brownie,493,3,4.6,46+,Delivery
+185,2024-02-05,Bangalore,Indian,Dal Tadka,228,1,4.3,18-25,Takeaway
+186,2024-03-13,Hyderabad,Dessert,Ice Cream,142,2,3.5,26-35,Dine-in
+187,2024-04-25,Pune,Italian,Pizza,278,1,3.8,36-45,Delivery
+188,2024-04-05,Mumbai,Fast Food,Burger,214,1,3.6,36-45,Delivery
+189,2024-03-14,Pune,Indian,Biryani,341,2,4.5,46+,Takeaway
+190,2024-01-05,Hyderabad,Italian,Pizza,231,2,4.7,46+,Delivery
+191,2024-03-18,Hyderabad,Chinese,Noodles,162,1,3.5,46+,Delivery
+192,2024-06-01,Hyderabad,Italian,Pasta,374,1,4.3,26-35,Takeaway
+193,2024-04-19,Pune,Indian,Paneer Butter Masala,100,3,3.5,26-35,Takeaway
+194,2024-04-02,Pune,Italian,Garlic Bread,134,1,3.8,18-25,Takeaway
+195,2024-03-05,Mumbai,Fast Food,Fries,482,1,3.7,36-45,Delivery
+196,2024-03-26,Bangalore,Italian,Garlic Bread,168,1,3.7,26-35,Takeaway
+197,2024-05-02,Mumbai,Fast Food,Sandwich,423,2,4.6,46+,Delivery
+198,2024-01-12,Bangalore,Chinese,Noodles,202,1,3.6,46+,Takeaway
+199,2024-01-10,Mumbai,Fast Food,Fries,485,2,3.6,36-45,Dine-in
+200,2024-04-21,Pune,Italian,Pasta,304,4,4.8,36-45,Delivery
+201,2024-05-07,Pune,Fast Food,Sandwich,288,3,4.6,18-25,Dine-in
+202,2024-05-19,Bangalore,Dessert,Ice Cream,250,3,3.2,36-45,Dine-in
+203,2024-04-19,Mumbai,Fast Food,Sandwich,185,4,3.7,36-45,Takeaway
+204,2024-06-12,Pune,Fast Food,Fries,129,1,4.3,36-45,Takeaway
+205,2024-02-06,Mumbai,Indian,Biryani,411,4,3.1,26-35,Takeaway
+206,2024-04-08,Pune,Chinese,Fried Rice,390,1,4.2,36-45,Dine-in
+207,2024-05-26,Bangalore,Fast Food,Burger,170,3,3.8,26-35,Delivery
+208,2024-02-17,Mumbai,Italian,Garlic Bread,355,4,4.8,36-45,Dine-in
+209,2024-06-05,Delhi,Fast Food,Burger,246,4,3.4,18-25,Dine-in
+210,2024-04-23,Mumbai,Indian,Dal Tadka,144,3,4.3,36-45,Dine-in
+211,2024-06-28,Hyderabad,Indian,Dal Tadka,426,2,4.6,26-35,Delivery
+212,2024-03-01,Hyderabad,Indian,Biryani,352,1,3.7,36-45,Dine-in
+213,2024-06-05,Pune,Dessert,Ice Cream,144,1,3.6,46+,Dine-in
+214,2024-02-02,Hyderabad,Dessert,Ice Cream,262,1,3.9,36-45,Delivery
+215,2024-05-30,Mumbai,Dessert,Cake,193,2,3.9,18-25,Takeaway
+216,2024-02-12,Delhi,Indian,Paneer Butter Masala,182,3,4.9,36-45,Takeaway
+217,2024-03-05,Bangalore,Chinese,Noodles,200,3,3.3,18-25,Takeaway
+218,2024-05-28,Hyderabad,Indian,Dal Tadka,178,2,4.3,36-45,Takeaway
+219,2024-01-21,Hyderabad,Italian,Pizza,123,3,4.3,46+,Takeaway
+220,2024-06-09,Bangalore,Italian,Pasta,379,3,4.3,46+,Delivery
+221,2024-04-26,Pune,Fast Food,Fries,137,1,3.3,46+,Dine-in
+222,2024-06-04,Bangalore,Indian,Paneer Butter Masala,173,3,4.7,36-45,Dine-in
+223,2024-05-11,Pune,Indian,Paneer Butter Masala,387,1,3.6,18-25,Dine-in
+224,2024-02-06,Pune,Fast Food,Burger,149,1,3.6,46+,Delivery
+225,2024-05-27,Delhi,Indian,Paneer Butter Masala,469,3,3.4,46+,Takeaway
+226,2024-03-19,Pune,Fast Food,Fries,354,1,3.2,46+,Delivery
+227,2024-03-31,Hyderabad,Indian,Dal Tadka,124,1,3.6,46+,Dine-in
+228,2024-01-28,Bangalore,Dessert,Ice Cream,320,2,4.8,46+,Dine-in
+229,2024-01-14,Bangalore,Italian,Pasta,391,2,3.7,18-25,Dine-in
+230,2024-05-20,Mumbai,Dessert,Brownie,243,1,3.3,46+,Dine-in
+231,2024-04-03,Hyderabad,Chinese,Manchurian,486,2,3.4,46+,Takeaway
+232,2024-01-10,Hyderabad,Italian,Pizza,170,3,4.6,46+,Delivery
+233,2024-02-05,Hyderabad,Dessert,Cake,267,3,3.3,36-45,Takeaway
+234,2024-05-10,Bangalore,Chinese,Manchurian,372,4,4.4,46+,Delivery
+235,2024-06-21,Mumbai,Chinese,Fried Rice,156,4,4.2,46+,Dine-in
+236,2024-02-28,Delhi,Dessert,Cake,469,1,4.2,46+,Delivery
+237,2024-05-26,Pune,Indian,Biryani,458,1,3.4,36-45,Dine-in
+238,2024-06-25,Hyderabad,Indian,Paneer Butter Masala,204,4,4.0,46+,Takeaway
+239,2024-02-05,Pune,Italian,Garlic Bread,365,2,4.1,46+,Dine-in
+240,2024-05-16,Bangalore,Indian,Paneer Butter Masala,275,3,4.4,46+,Delivery
+241,2024-05-22,Bangalore,Indian,Paneer Butter Masala,252,2,4.9,36-45,Takeaway
+242,2024-06-29,Hyderabad,Indian,Dal Tadka,350,3,4.0,36-45,Dine-in
+243,2024-06-22,Pune,Italian,Garlic Bread,378,4,4.8,36-45,Delivery
+244,2024-03-14,Pune,Chinese,Noodles,465,1,3.7,36-45,Takeaway
+245,2024-02-21,Bangalore,Fast Food,Burger,375,3,4.9,26-35,Delivery
+246,2024-05-30,Hyderabad,Dessert,Cake,222,2,3.1,26-35,Takeaway
+247,2024-01-26,Mumbai,Indian,Biryani,311,3,4.4,26-35,Delivery
+248,2024-04-14,Delhi,Dessert,Ice Cream,434,4,4.0,36-45,Dine-in
+249,2024-01-16,Delhi,Chinese,Manchurian,493,1,4.3,18-25,Delivery
+250,2024-01-10,Bangalore,Fast Food,Burger,303,4,3.4,18-25,Delivery
+251,2024-06-03,Hyderabad,Chinese,Manchurian,154,3,3.6,46+,Delivery
+252,2024-03-10,Pune,Dessert,Brownie,198,1,3.7,36-45,Takeaway
+253,2024-03-27,Pune,Indian,Biryani,251,2,3.4,46+,Takeaway
+254,2024-04-12,Delhi,Chinese,Noodles,442,1,3.4,46+,Dine-in
+255,2024-03-07,Bangalore,Indian,Biryani,296,2,3.9,36-45,Dine-in
+256,2024-05-26,Delhi,Dessert,Cake,105,3,4.3,18-25,Takeaway
+257,2024-03-19,Bangalore,Italian,Pasta,181,4,4.4,18-25,Takeaway
+258,2024-06-06,Pune,Chinese,Fried Rice,213,2,4.9,26-35,Dine-in
+259,2024-04-16,Delhi,Dessert,Brownie,459,4,4.5,26-35,Takeaway
+260,2024-05-14,Hyderabad,Dessert,Ice Cream,328,3,3.2,18-25,Delivery
+261,2024-02-21,Hyderabad,Dessert,Cake,393,2,3.3,46+,Delivery
+262,2024-05-29,Pune,Indian,Dal Tadka,350,1,4.8,18-25,Dine-in
+263,2024-04-16,Bangalore,Indian,Dal Tadka,333,1,4.1,18-25,Dine-in
+264,2024-02-25,Bangalore,Chinese,Noodles,396,1,3.1,18-25,Takeaway
+265,2024-04-30,Delhi,Italian,Pizza,116,3,3.8,46+,Dine-in
+266,2024-04-06,Hyderabad,Fast Food,Fries,292,1,4.4,26-35,Takeaway
+267,2024-02-15,Delhi,Chinese,Noodles,375,4,4.1,18-25,Delivery
+268,2024-06-21,Delhi,Chinese,Fried Rice,468,4,4.1,26-35,Dine-in
+269,2024-03-11,Pune,Chinese,Noodles,196,1,3.1,18-25,Delivery
+270,2024-01-26,Mumbai,Indian,Biryani,404,1,3.9,26-35,Takeaway
+271,2024-04-22,Mumbai,Italian,Pasta,219,2,4.5,26-35,Takeaway
+272,2024-05-27,Delhi,Chinese,Noodles,263,3,3.5,26-35,Dine-in
+273,2024-01-16,Pune,Chinese,Fried Rice,385,2,4.3,46+,Delivery
+274,2024-06-20,Pune,Chinese,Manchurian,295,3,4.4,26-35,Dine-in
+275,2024-05-17,Bangalore,Fast Food,Burger,342,2,4.7,26-35,Dine-in
+276,2024-04-15,Bangalore,Italian,Garlic Bread,313,2,3.8,26-35,Dine-in
+277,2024-04-04,Pune,Italian,Pasta,147,2,3.1,18-25,Delivery
+278,2024-06-20,Bangalore,Indian,Dal Tadka,386,2,4.0,36-45,Delivery
+279,2024-01-31,Hyderabad,Indian,Biryani,482,4,4.8,26-35,Dine-in
+280,2024-03-23,Hyderabad,Indian,Dal Tadka,497,3,3.8,36-45,Dine-in
+281,2024-05-11,Pune,Chinese,Fried Rice,354,4,3.2,36-45,Delivery
+282,2024-04-15,Mumbai,Chinese,Fried Rice,123,2,4.5,36-45,Takeaway
+283,2024-04-16,Delhi,Dessert,Cake,251,2,3.4,46+,Takeaway
+284,2024-05-20,Pune,Indian,Paneer Butter Masala,435,3,3.5,46+,Dine-in
+285,2024-03-31,Pune,Indian,Dal Tadka,186,2,4.4,26-35,Takeaway
+286,2024-01-09,Pune,Italian,Garlic Bread,138,1,4.5,26-35,Takeaway
+287,2024-02-08,Bangalore,Indian,Biryani,104,2,4.0,18-25,Takeaway
+288,2024-06-17,Hyderabad,Dessert,Brownie,349,1,3.0,46+,Delivery
+289,2024-03-11,Pune,Italian,Garlic Bread,374,3,3.0,26-35,Delivery
+290,2024-02-08,Bangalore,Italian,Garlic Bread,223,2,4.2,36-45,Dine-in
+291,2024-04-05,Delhi,Fast Food,Burger,307,4,4.1,36-45,Takeaway
+292,2024-06-15,Pune,Italian,Garlic Bread,488,1,3.2,46+,Takeaway
+293,2024-06-12,Pune,Fast Food,Burger,104,2,3.2,36-45,Takeaway
+294,2024-01-11,Hyderabad,Italian,Garlic Bread,217,2,4.8,46+,Dine-in
+295,2024-06-24,Bangalore,Italian,Pizza,243,1,3.4,18-25,Delivery
+296,2024-04-11,Delhi,Dessert,Ice Cream,139,3,3.3,46+,Takeaway
+297,2024-04-08,Mumbai,Dessert,Brownie,486,2,4.6,36-45,Delivery
+298,2024-02-29,Hyderabad,Italian,Pasta,138,3,4.2,46+,Dine-in
+299,2024-03-10,Hyderabad,Italian,Garlic Bread,330,4,3.5,46+,Dine-in
+300,2024-05-29,Hyderabad,Indian,Dal Tadka,438,4,3.2,36-45,Delivery
