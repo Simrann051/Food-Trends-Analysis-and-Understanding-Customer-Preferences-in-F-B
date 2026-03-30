@@ -39,3 +39,6 @@ This project analyzes restaurant data to understand customer preferences, food t
 - Machine learning predictions
 - Advanced sentiment analysis
 
+## 📊 Dashboard Preview
+
+![Dashboard](Food Trend Analysis Dashboard.png)
